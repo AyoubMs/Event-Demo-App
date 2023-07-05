@@ -1,0 +1,8 @@
+C:\Users\ayoub\source\repos\EventDemoApp\EventDemo\bin\Debug\EventDemo.exe.config
+C:\Users\ayoub\source\repos\EventDemoApp\EventDemo\bin\Debug\EventDemo.exe
+C:\Users\ayoub\source\repos\EventDemoApp\EventDemo\bin\Debug\EventDemo.pdb
+C:\Users\ayoub\source\repos\EventDemoApp\EventDemo\obj\Debug\EventDemo.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\EventDemoApp\EventDemo\obj\Debug\EventDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayoub\source\repos\EventDemoApp\EventDemo\obj\Debug\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\EventDemoApp\EventDemo\obj\Debug\EventDemo.exe
+C:\Users\ayoub\source\repos\EventDemoApp\EventDemo\obj\Debug\EventDemo.pdb
